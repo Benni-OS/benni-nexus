@@ -1,6 +1,6 @@
 export interface Backend {
   name: string;
-  type: 'ollama' | 'openai' | 'groq' | 'gemini' | 'anthropic' | 'custom';
+  type: "ollama" | "openai" | "groq" | "gemini" | "anthropic" | "custom";
   url?: string;
   apiKey?: string;
   models?: string[];
@@ -11,13 +11,14 @@ export interface Backend {
 
 export interface NexusConfig {
   port?: number;
-  logLevel?: 'trace' | 'debug' | 'info' | 'warn' | 'error';
-  strategy?: 'cheap-first' | 'fast-first' | 'quality-first' | 'round-robin' | 'failover';
+  logLevel?: "trace" | "debug" | "info" | "warn" | "error";
+  strategy?:
+    "cheap-first" | "fast-first" | "quality-first" | "round-robin" | "failover";
   backends: Backend[];
 }
 
 export interface ChatMessage {
-  role: 'system' | 'user' | 'assistant';
+  role: "system" | "user" | "assistant";
   content: string;
 }
 
