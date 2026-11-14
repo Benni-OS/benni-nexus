@@ -23,7 +23,7 @@
 
 <br/>
 
-<img src="assets/demo.svg" alt="Benni Nexus Intelligent LLM Router Demo" width="100%"/>
+<img src="assets/demo.gif" alt="Benni Nexus Intelligent LLM Router Demo" width="100%"/>
 
 <br/>
 
