@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:302b63,100:7000FF&height=200&section=header&text=benni-nexus&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=LLM%20Gateway%20for%20the%20Benni%20OS%20Ecosystem%20%E2%80%94%20Route.%20Balance.%20Observe.&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="assets/banner_header.png" width="100%"/>
 
 <br/>
 
@@ -240,7 +240,7 @@ Need autonomous multi-agent swarm orchestration, private datacenter infrastructu
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000FF,50:302b63,100:0D0D0D&height=120&section=footer" width="100%"/>
+<img src="assets/banner_footer.png" width="100%"/>
 
 **benni-nexus** — *Open-Source LLM Gateway by [Benni OS](https://github.com/Benni-OS)* • [benni-os.net](https://benni-os.net) • `MIT License`
 
